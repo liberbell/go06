@@ -7,7 +7,7 @@ func fun(y int) {
 }
 
 func main() {
-	y := 0
+	y := 10
 	fun(y)
 	fmt.Println(y)
 }
