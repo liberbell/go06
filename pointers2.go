@@ -1,4 +1,6 @@
-pacakge main
+package main
+
+import "fmt"
 
 func num(yPtr *int) {
 	*yPtr = 5
