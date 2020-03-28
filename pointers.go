@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func fun(y, int) {
+func fun(y int) {
 	y = 0
 }
 
