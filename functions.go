@@ -10,7 +10,7 @@ func subt(x int, y int) int {
 	return x - y
 }
 
-func mult(a, b, string) (string, string) {
+func mult(a, b string) (string, string) {
 	return a, b
 }
 
