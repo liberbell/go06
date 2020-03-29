@@ -7,7 +7,7 @@ func main() {
 		if y%2 == 0 {
 			fmt.Println(y, "even number")
 		} else {
-			fmt.Println(y, "old number")
+			fmt.Println(y, "odd number")
 		}
 	}
 }
