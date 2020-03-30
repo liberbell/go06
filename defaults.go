@@ -15,7 +15,7 @@ import (
 // }
 
 func main() {
-	fmt.Println(time.Hour())
+	fmt.Println(time.Now())
 	// switch {
 	// case time.Hour() < 12:
 	// 	fmt.Println("Before noon.")
