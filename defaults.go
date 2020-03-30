@@ -16,6 +16,7 @@ import (
 
 func main() {
 	time := time.Now()
+	fmt.Println("Now hour is: ", time.Hour())
 	switch {
 	case time.Hour() < 12:
 		fmt.Println("Before noon.")
