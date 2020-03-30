@@ -16,9 +16,9 @@ import "fmt"
 // }
 
 func main() {
-	lenght := 9
+	length := 9
 	switch {
-	case lenght <= 7:
+	case length <= 7:
 		fmt.Println("Short")
 	case length <= 8:
 		fmt.Println("Normal")
