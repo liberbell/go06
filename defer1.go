@@ -8,4 +8,5 @@ func main() {
 		defer fmt.Println(x, "popped")
 		fmt.Println(x, "deferred")
 	}
+	fmt.Println("\n")
 }
