@@ -12,6 +12,6 @@ func main() {
 }
 
 func sum(x int, y int) int {
-	x := 1
-	y
+	x = 1
+	y = 2
 }
