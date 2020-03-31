@@ -10,3 +10,8 @@ func main() {
 	}
 	fmt.Println("\n")
 }
+
+func sum(x int, y int) int {
+	x := 1
+	y
+}
